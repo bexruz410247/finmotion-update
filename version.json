@@ -1,5 +1,1 @@
-{
-  "version": "3.7.2",
-  "zxp": "https://raw.githubusercontent.com/bexruz410247/finmotion-update/main/FIN_MOTION.zxp",
-  "notes": "Premiere: matn animatsiyalari endi Premiere'ning o'zida (59 ta), Color Grading tuzatildi"
-}
+{"version": "3.8.0", "zxp": "https://raw.githubusercontent.com/bexruz410247/finmotion-update/main/FIN_MOTION-1.zxp", "notes": "Premiere endi After Effects'siz ishlaydi, fonlar sekin harakatlanadi (noise gradient), Roto Brush yordamchisi, Color Grading va Social tugmalar tuzatildi"}
