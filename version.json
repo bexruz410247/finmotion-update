@@ -1,5 +1,5 @@
 {
-  "version": "3.9.0",
+  "version": "3.9.1",
   "zxp": "https://raw.githubusercontent.com/bexruz410247/finmotion-update/main/FIN_MOTION.zxp",
-  "notes": "Yangi 3D bo'limi: 3D matn (qalinlik), 3D animatsiyalar, Orbit/Sway kamera, Face Track (yuzni kuzatish), doira ichini kuzatish, matn odam orqasida"
+  "notes": "SFX va Media: papka tanlash oynasi tuzatildi (Premiere va After Effects). FIN SFX tovushlari avtomatik ulanadi."
 }
